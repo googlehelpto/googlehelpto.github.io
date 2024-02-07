@@ -1,1 +1,1 @@
-<h1>a</h1>
+<h1>404 NOT FOUND A fatal error has occurred</h1>
